@@ -7,6 +7,8 @@ where appropriate -->
 
 # Wet lab (bench) protocols
 
+* [Processing fecal samples](/wetlab/processing_SOP)
+
 \tableofcontents <!-- you can use \toc as well -->
 
 This section is meant as a refresher if you're new to Franklin.

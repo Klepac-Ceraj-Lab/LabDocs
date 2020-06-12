@@ -5,6 +5,11 @@
 # Dry lab (computational) protocols
 
 * [Using `git`](/drylab/git)
+* [Important lab forms](/drylab/importantforms)
+* [Lab meetings](/drylab/labmeetings)
+* [Onboarding students](/drylab/onboardingstudents_SOP)
+* [Onboarding staff](/drylab/onboardingstaff_SOP)
+* [Processing sequencing data](/drylab/sequencing_SOP)
 
 ## Live evaluation of code blocks
 
